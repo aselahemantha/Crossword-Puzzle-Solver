@@ -4,6 +4,8 @@ In this project, a C program is written to solve a crossword puzzle. The program
 Here, two main memory allocation methods are used to implement the code. Those are static memory allocation and dynamic memory allocation.
 
 ## Authors:
+
 L M A H Premawansha
+
 K H J D Premachandra
 
